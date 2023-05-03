@@ -9,16 +9,16 @@
 /* Begin PBXBuildFile section */
 		2DFE2C732A0217BE00899DCA /* SwiftUI_3DSideMenuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFE2C722A0217BE00899DCA /* SwiftUI_3DSideMenuApp.swift */; };
 		2DFE2C752A0217BE00899DCA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DFE2C742A0217BE00899DCA /* ContentView.swift */; };
-		2DFE2C772A0217C000899DCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DFE2C762A0217C000899DCA /* Assets.xcassets */; };
 		2DFE2C7A2A0217C000899DCA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DFE2C792A0217C000899DCA /* Preview Assets.xcassets */; };
+		2DFE2C812A0217D000899DCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DFE2C802A0217D000899DCA /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2DFE2C6F2A0217BE00899DCA /* SwiftUI_3DSideMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_3DSideMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DFE2C722A0217BE00899DCA /* SwiftUI_3DSideMenuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_3DSideMenuApp.swift; sourceTree = "<group>"; };
 		2DFE2C742A0217BE00899DCA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		2DFE2C762A0217C000899DCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DFE2C792A0217C000899DCA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2DFE2C802A0217D000899DCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +53,7 @@
 			children = (
 				2DFE2C722A0217BE00899DCA /* SwiftUI_3DSideMenuApp.swift */,
 				2DFE2C742A0217BE00899DCA /* ContentView.swift */,
-				2DFE2C762A0217C000899DCA /* Assets.xcassets */,
+				2DFE2C802A0217D000899DCA /* Assets.xcassets */,
 				2DFE2C782A0217C000899DCA /* Preview Content */,
 			);
 			path = SwiftUI_3DSideMenu;
@@ -125,8 +125,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DFE2C812A0217D000899DCA /* Assets.xcassets in Resources */,
 				2DFE2C7A2A0217C000899DCA /* Preview Assets.xcassets in Resources */,
-				2DFE2C772A0217C000899DCA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
