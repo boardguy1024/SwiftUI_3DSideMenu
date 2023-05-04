@@ -127,8 +127,3 @@ struct SideMenu_Previews: PreviewProvider {
     }
 }
 
-extension View {
-    func getRect() -> CGRect {
-        UIScreen.main.bounds
-    }
-}
